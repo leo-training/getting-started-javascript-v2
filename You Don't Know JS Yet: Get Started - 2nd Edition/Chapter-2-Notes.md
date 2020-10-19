@@ -1,3 +1,3 @@
 
-### Arrays
+### Arrays ###
 JS Arrays can hold any type of value. primitive or object, including other arrays!
